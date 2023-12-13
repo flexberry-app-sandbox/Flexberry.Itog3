@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-itog3-клиент-e",
+  "editForm": "i-i-s-itog3-клиент-e",
+  "external": false,
+  "caption": "Клиент",
+  "name": "IISItog3КлиентL",
+  "className": "КлиентL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-itog3-клиент",
+      "modelProjection": "КлиентL"
+    }
+  ]
+}

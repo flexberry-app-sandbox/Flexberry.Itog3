@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "переченьУслуг",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "ОказУсл.ПереченьУслуг",
+      "projection": "ПереченьУслугL",
+      "detailModelName": "i-i-s-itog3-оказ-услуг"
+    }
+  ],
+  "external": false,
+  "caption": "Расчет ост врем",
+  "name": "IISItog3РасчетОстВремE",
+  "className": "РасчетОстВремE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-itog3-расчет-ост-врем",
+      "modelProjection": "РасчетОстВремE"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog3.Objects", "Objects/Itog3.Objects.csproj", "09d88325-3d04-4d9b-b0dc-15359d4889da"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog3.Tests", "Tests/Itog3.Tests.csproj", "f42438e2-be2b-4321-ae13-9e3d29c94084"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog3.ODataBackend", "ODataBackend/Itog3.ODataBackend.csproj", "146d5e9b-8a13-464c-9e60-cf33b683a588"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog3.IntegrationTests", "IntegrationTests/Itog3.IntegrationTests.csproj", "2218b3ce-5169-485d-950b-e0951039239f"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		09d88325-3d04-4d9b-b0dc-15359d4889da.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		09d88325-3d04-4d9b-b0dc-15359d4889da.Debug|Any CPU.Build.0 = Debug|Any CPU
+		09d88325-3d04-4d9b-b0dc-15359d4889da.Release|Any CPU.ActiveCfg = Release|Any CPU
+		09d88325-3d04-4d9b-b0dc-15359d4889da.Release|Any CPU.Build.0 = Release|Any CPU
+		f42438e2-be2b-4321-ae13-9e3d29c94084.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		f42438e2-be2b-4321-ae13-9e3d29c94084.Debug|Any CPU.Build.0 = Debug|Any CPU
+		f42438e2-be2b-4321-ae13-9e3d29c94084.Release|Any CPU.ActiveCfg = Release|Any CPU
+		f42438e2-be2b-4321-ae13-9e3d29c94084.Release|Any CPU.Build.0 = Release|Any CPU
+		146d5e9b-8a13-464c-9e60-cf33b683a588.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		146d5e9b-8a13-464c-9e60-cf33b683a588.Debug|Any CPU.Build.0 = Debug|Any CPU
+		146d5e9b-8a13-464c-9e60-cf33b683a588.Release|Any CPU.ActiveCfg = Release|Any CPU
+		146d5e9b-8a13-464c-9e60-cf33b683a588.Release|Any CPU.Build.0 = Release|Any CPU
+		2218b3ce-5169-485d-950b-e0951039239f.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		2218b3ce-5169-485d-950b-e0951039239f.Debug|Any CPU.Build.0 = Debug|Any CPU
+		2218b3ce-5169-485d-950b-e0951039239f.Release|Any CPU.ActiveCfg = Release|Any CPU
+		2218b3ce-5169-485d-950b-e0951039239f.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

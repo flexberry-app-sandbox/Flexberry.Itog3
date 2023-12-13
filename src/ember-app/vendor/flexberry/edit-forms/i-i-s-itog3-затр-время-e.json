@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Затр время",
+  "name": "IISItog3ЗатрВремяE",
+  "className": "ЗатрВремяE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-itog3-затр-время",
+      "modelProjection": "ЗатрВремяE"
+    }
+  ]
+}

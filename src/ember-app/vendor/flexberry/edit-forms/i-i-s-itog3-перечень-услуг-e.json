@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ЗатрВремя",
+      "projection": "ЗатрВремяL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Перечень услуг",
+  "name": "IISItog3ПереченьУслугE",
+  "className": "ПереченьУслугE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-itog3-перечень-услуг",
+      "modelProjection": "ПереченьУслугE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-itog3-договор-e",
+  "editForm": "i-i-s-itog3-договор-e",
+  "external": false,
+  "caption": "Договор",
+  "name": "IISItog3ДоговорL",
+  "className": "ДоговорL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-itog3-договор",
+      "modelProjection": "ДоговорL"
+    }
+  ]
+}

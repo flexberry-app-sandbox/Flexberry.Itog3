@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>Itog3.model.RaschetOstVrem</class>
+        <class>Itog3.model.DirOtdPoRabSKl</class>
+        <class>Itog3.model.PerechenUslug</class>
+        <class>Itog3.model.ZatrVremya</class>
+        <class>Itog3.model.Dogovor</class>
+        <class>Itog3.model.OkazUslug</class>
+        <class>Itog3.model.Klient</class>
+        <class>Itog3.model.FlexberryAdvLimit</class>
+        <class>Itog3.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>Itog3.model.NewPlatformFlexberryServicesLock</class>
+        <class>Itog3.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

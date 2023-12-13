@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-itog3-перечень-услуг-e",
+  "editForm": "i-i-s-itog3-перечень-услуг-e",
+  "external": false,
+  "caption": "Перечень услуг",
+  "name": "IISItog3ПереченьУслугL",
+  "className": "ПереченьУслугL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-itog3-перечень-услуг",
+      "modelProjection": "ПереченьУслугL"
+    }
+  ]
+}
